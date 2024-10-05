@@ -1,1 +1,1 @@
-# Indeed-Job-Scraper-with-Python
+# Amazon-product-information-Scraper-with-Python
